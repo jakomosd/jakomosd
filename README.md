@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jakomosd
 - 👀 I’m interested in Programming with MIT App Inventor
 - 🌱 I’m currently learning MIT App Inventor. xD
-- 📫 How to reach me 
+- 📫 How to reach me https://discord.gg/sjkV62W49R
 
 
